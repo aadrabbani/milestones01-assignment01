@@ -120,6 +120,8 @@
 
 }
 
+.btn-join {}
+
 .box {
     fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     text-align: center;
@@ -130,7 +132,7 @@
     font-weight: 600;
     line-height: 56px;
     text-transform: capitalize;
-    border: 3px solid ;
+    border: 3px solid;
     margin: 60px;
     padding: 90px 0px;
 }
@@ -148,4 +150,159 @@
     gap: 10px;
     border-radius: 8px;
     background: #F00;
+}
+
+.functional {
+    text-align: center;
+}
+
+.h5f {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.h1s {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.holi {
+    color: #F00;
+}
+
+.dolar {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.discounds {
+    margin-left: 30px;
+}
+
+.gifts {
+    margin-top: 50px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.h2o {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.ps {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 5px;
+}
+
+.img-1 {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.img-2 {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.mailbox {
+    padding: 50px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    margin: 50px;
+    text-align: center;
+    border: 2px solid;
+}
+
+.emai {
+    margin: 10px auto;
+}
+
+.subs {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.box-p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    margin: 30px auto;
+    width: 896px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.input {
+    width: 600px;
+    height: 66px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+}
+
+.btn-subs {
+    width: 180px;
+    height: 70px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+}
+
+.sp-subs {
+
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+footer {
+    background: #070211;
+}
+
+.ad {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
 }
