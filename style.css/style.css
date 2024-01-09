@@ -77,9 +77,10 @@
     flex-shrink: 0;
     margin: 20px 0px 20px 180px;
 }
-.contenta{
+
+.contenta {
     margin: 0px 0px 0px 126px;
-    padding-top:60px ;
+    padding-top: 60px;
 }
 
 .contenta>h3 {
@@ -117,4 +118,34 @@
     line-height: normal;
     text-transform: uppercase;
 
+}
+
+.box {
+    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    border: 3px solid ;
+    margin: 60px;
+    padding: 90px 0px;
+}
+
+.box>h5>span {
+    color: #f00;
+}
+
+.join-now {
+    color: #FFF;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
 }
